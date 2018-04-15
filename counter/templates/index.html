@@ -1,0 +1,12 @@
+<html>
+    <head>
+       <title>Counter Index</title>
+       <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/counter.css')}}">
+    </head>
+    <body>
+        <h1>Counter</h1>
+        <h4>{{counter}} times.</h4>
+        <button><a href="/button"> +2</a></button>
+        <button><a href="/reset"> Reset counter!</a></button>
+    </body>
+</html>

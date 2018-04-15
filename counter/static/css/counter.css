@@ -1,0 +1,16 @@
+h1{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 50px 0px 0px 100px;
+}
+h4{
+    margin-left: 140px;
+    font-size: 15px;
+}
+button{
+    margin-left: 80px;
+}
+button a{
+    font-size: 10px;
+    text-decoration: none;
+}
